@@ -1,1 +1,1 @@
-# first-python-project
+# Practice React project with Udemy
